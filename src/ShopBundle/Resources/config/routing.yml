@@ -1,0 +1,3 @@
+shop_homepage:
+    path:     /{itemName}
+    defaults: { _controller: ShopBundle:Default:index }
